@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on projects with MERN Stack and Python with ML<br>🌱 I’m currently learning MERN Stack and Docker.<br>👯 Looking to collaborate on opensource projects.</p>
+<p align="left">🔭 Currently working on projects with MERN Stack and Python with ML<br>🌱Deep diving into learning MERN Stack and Docker! <br>👯 Looking to collaborate on open source projects.</p>
 
 ###
 
