@@ -1,10 +1,52 @@
-- 👋 Hi, I’m rajvichauhan
-    Welcome to my GitHub profile! I’m a Computer Science student with a strong interest in Web Development, Cybersecurity, Cloud Computing & DevOps. I’m here to learn, build projects, and share my journey in tech.
-- Skills:
-  Here are some of the technologies I’m familiar with or currently learning:
-  Java, Javascript, HTML, CSS, PostgreSQL, MongoDB, Bootstrap, React.js, Node.js, Python, Postman, Wordpress.
+<h1 align="left">Hi There 👋</h1>
 
-<!---
-rajvichauhan/rajvichauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">I'm Rajvi, a second year comp-sci student fine-tuning my skills and looking for new challenges to tackle :)</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🔭 I’m currently working on projects with MERN Stack and Python with ML<br>🌱 I’m currently learning MERN Stack and Docker.<br>👯 Looking to collaborate on opensource projects.</p>
+
+###
+
+<h2 align="left">Things I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
